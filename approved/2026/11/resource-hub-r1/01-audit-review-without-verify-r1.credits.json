@@ -1,0 +1,23 @@
+{
+  "number": 1,
+  "slug": "audit-review-without-verify",
+  "title": "When review starts from fragments",
+  "page": "https://obligra.ai/resources/audit-readiness-ai-workflows",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-audit-review-without-verify.svg",
+  "width": 1200,
+  "height": 1200,
+  "svg_file": "01-audit-review-without-verify-r1.svg",
+  "png_file": "01-audit-review-without-verify-r1.png",
+  "png_sha256": "32ca4d31ca4b665f618525295d5a4eba3a466e886776867aa759f67f04b099aa",
+  "svg_sha256": "2c4e537386d4712db9dea62dde63f0f56dc22bb19f1992a812d2f0681d710323",
+  "source_sha256": "f268a10ec96bc4aa57e884484f12a8c14fdd48d57bfd4fb0f3cdae4ce75e2893",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  01 AUDIT REVIEW When review starts from fragments Without a retained decision record, the review can become reconstruction. A reviewer asks: “What happened in this decision?” Logs System activity Tickets Human annotations Screenshots Visible UI state Dashboards Aggregate behavior Emails Correspondence Manual reconstruction Find, compare and assemble the fragments. Audit response These sources can help. They are not, by themselves, the retained decision artifact. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Reconstruction is conditional rather than inevitable; source categories preserved.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

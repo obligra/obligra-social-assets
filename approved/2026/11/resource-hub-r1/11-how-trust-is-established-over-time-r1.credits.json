@@ -1,0 +1,23 @@
+{
+  "number": 11,
+  "slug": "how-trust-is-established-over-time",
+  "title": "Build trust one check at a time",
+  "page": "https://obligra.ai/resources/verification-lifecycle",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-how-trust-is-established-over-time.svg",
+  "width": 1200,
+  "height": 1350,
+  "svg_file": "11-how-trust-is-established-over-time-r1.svg",
+  "png_file": "11-how-trust-is-established-over-time-r1.png",
+  "png_sha256": "aad91337b53b6e8e1dfe970d05ea9ac63a9b25f0f5316b547c07a638dae9f907",
+  "svg_sha256": "44f8c70c7212bb529a0171d20d2e94a56952fbd879e52a5b3afd8275a2195bf3",
+  "source_sha256": "e9e29427761ce5549166f64091d6c26ce0a803e673a7c51d8507118bb4b392e0",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  11 VERIFICATION LIFECYCLE Build trust one check at a time Each stage answers a specific question about the retained record. 01 Captured EXECUTION TIME Does the record exist? The selected evidence was recorded. 02 Validated EXECUTION TIME Did the submission conform? Its shape met the submission contract. 03 Attested EXECUTION TIME Can integrity be checked later? An integrity reference was committed. 04 Verified REVIEW TIME Does it still match capture? An on-demand check tests the retained record. 05 Reviewed REVIEW TIME Has a reviewer acted on it? The customer program inspected or escalated it. A saved result is time-stamped history. Use a fresh integrity check when current verification is needed. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Preserves five lifecycle concepts; replaces generic cumulative-trust ranking with checkable properties and saved-result timing caveat.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

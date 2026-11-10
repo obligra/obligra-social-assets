@@ -1,0 +1,23 @@
+{
+  "number": 5,
+  "slug": "reference-architecture-aws",
+  "title": "Verify on AWS: who runs what?",
+  "page": "https://obligra.ai/resources/reference-architecture-aws",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-reference-architecture-aws.svg",
+  "width": 1200,
+  "height": 1500,
+  "svg_file": "05-reference-architecture-aws-r1.svg",
+  "png_file": "05-reference-architecture-aws-r1.png",
+  "png_sha256": "b00872ef9789f5f8e46a6ee63fecf87524d74d6a96613c06c7c172e65ce9a835",
+  "svg_sha256": "57225288c58054853948f30080cee3b9136896b965ecd985bebb26ba25cb37f8",
+  "source_sha256": "293592dc70f2ae6a38b6a8c70b73abc4315c6096f2023cdf5207b53d15a81766",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  05 REFERENCE ARCHITECTURE Verify on AWS: who runs what? Customer-owned capture. Obligra-operated record services. 01  CUSTOMER AWS ACCOUNT Application runtime + business data ECS · EKS · Lambda · EC2 · App Runner API keys stay in customer-managed secret storage. 02  CUSTOMER-OWNED CAPTURE BOUNDARY Customer-owned proxy The application supplies context; the proxy applies policy. Capture decision Capture this interaction, or skip it. Field retention Allow, drop, redact or truncate fields. Only approved fields leave this boundary HTTPS 03  OBLIGRA MANAGED PLATFORM Verify API → Decision record platform → Console Retention · retrieval · verification · evidence A reference pattern, not automatic capture. Customer policy determines what is submitted. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Preserves three zones and policy-before-egress semantics. Deployment tool/SDK specifics omitted from this visual summary.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

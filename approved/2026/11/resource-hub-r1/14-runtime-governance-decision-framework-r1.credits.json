@@ -1,0 +1,23 @@
+{
+  "number": 14,
+  "slug": "runtime-governance-decision-framework",
+  "title": "Choose runtime and governance",
+  "page": "https://obligra.ai/resources/customer-integration-patterns",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-runtime-governance-decision-framework.svg",
+  "width": 1200,
+  "height": 1500,
+  "svg_file": "14-runtime-governance-decision-framework-r1.svg",
+  "png_file": "14-runtime-governance-decision-framework-r1.png",
+  "png_sha256": "350d9bb0fbe197daff87dea9e584cbdaccdd445e819730df3281ff9f263ad75c",
+  "svg_sha256": "0fc8749f4f6b025fea6b41b47e237cb22e997e53cf66fc1117a05a08c1b15e1e",
+  "source_sha256": "941da9fe6ebb3d6ff9f6500297fbaceda62690054739859f8853e432ce76dd6f",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  14 INTEGRATION ARCHITECTURE Choose runtime and governance Two independent choices. The same Verify API destination. 01  WHERE DOES CAPTURE EXECUTE? Backend service Existing request path AWS Lambda Event-driven function Container / ECS Long-running service Queue worker Asynchronous processing 02  HOW IS CAPTURE GOVERNED? Direct integration A direct submission path, commonly used for evaluation. Customer runtime Verify API Governed integration Customer policy is evaluated before transmission. Runtime Customer proxy + policies Verify API The queue, worker and proxy remain customer-owned. Use the runtime that fits the workflow and the governance pattern its review obligations require. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Reorganizes the original 4×2 matrix into independent runtime and governance choices. Avoids suggesting direct integration is forbidden in production.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

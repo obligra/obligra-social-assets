@@ -1,0 +1,23 @@
+{
+  "number": 6,
+  "slug": "lifecycle",
+  "title": "From workflow to review evidence",
+  "page": "https://obligra.ai/resources/what-is-verify",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-lifecycle.svg",
+  "width": 1200,
+  "height": 1350,
+  "svg_file": "06-lifecycle-r1.svg",
+  "png_file": "06-lifecycle-r1.png",
+  "png_sha256": "dc2b5c74f2a16ad41a6a953ff091116fbdea340e86214a5ac51a0b9d7fc0eb85",
+  "svg_sha256": "5b4f10b106ca63139cc814fdf0a78c36ddd1ef9a8f673e3cfe072c776fd360d2",
+  "source_sha256": "2bc4c52634f6a3be8ffa44c05d490bc49e12acc9aa6b130f0dfcb37db15a61b2",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  06 VERIFY LIFECYCLE From workflow to review evidence A record of selected evidence, retained for authorized review. 01 Workflow An AI-assisted step occurs. CUSTOMER 02 Capture Select and supply context. CUSTOMER 03 Retain Hold the submitted record. OBLIGRA 04 Retrieve Find it by business context. OBLIGRA 05 Verify Check the record’s integrity. OBLIGRA 06 Evidence Use it in a review workflow. CUSTOMER REVIEW Verification checks the retained artifact. It does not establish that the decision was right. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Six lifecycle stages preserved. Evidence is shown being used by customer reviewers rather than implying a guaranteed compliance result.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

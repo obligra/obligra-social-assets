@@ -1,0 +1,23 @@
+{
+  "number": 9,
+  "slug": "validation-verification-correctness",
+  "title": "Three questions. Three meanings.",
+  "page": "https://obligra.ai/resources/verification-lifecycle",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-validation-verification-correctness.svg",
+  "width": 1200,
+  "height": 1200,
+  "svg_file": "09-validation-verification-correctness-r1.svg",
+  "png_file": "09-validation-verification-correctness-r1.png",
+  "png_sha256": "c6b832df625c5f131c3027247abfed43fbb42c2c1a4f1ba4bd2f3c7b4a8bb297",
+  "svg_sha256": "6c1b694c9b8356e64784a4f5378647616a43ba0a90be5c749b849f0f28dd4532",
+  "source_sha256": "83adf6cdfba59f809aab1d089c854165e06751401a5b33fee72f87bbf9f20197",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  09 REVIEW VOCABULARY Three questions. Three meanings. Validation, verification and correctness must stay separate. 01 Validation Did the submission meet the record contract? Verify · at submission 02 Verification Does the retained record still match capture? Verify · on-demand integrity check 03 Correctness Was this the right outcome for the situation? Customer review program · domain judgment A valid submission and an unchanged record do not establish a correct, complete or compliant decision. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Preserves submission validation, record integrity verification, and customer-owned correctness review.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

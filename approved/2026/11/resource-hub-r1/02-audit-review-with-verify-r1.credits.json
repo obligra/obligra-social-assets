@@ -1,0 +1,23 @@
+{
+  "number": 2,
+  "slug": "audit-review-with-verify",
+  "title": "Begin with the retained record",
+  "page": "https://obligra.ai/resources/audit-readiness-ai-workflows",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-audit-review-with-verify.svg",
+  "width": 1200,
+  "height": 1200,
+  "svg_file": "02-audit-review-with-verify-r1.svg",
+  "png_file": "02-audit-review-with-verify-r1.png",
+  "png_sha256": "78da0e8f5d22fab26ee20b28c69dcb3f53d1063ab8b34fcd5f800354ba82579e",
+  "svg_sha256": "e7ae1c093d7612477ad404804d2b6876abd8ec027d98d5cc59420c592a595f0a",
+  "source_sha256": "6be92093e7274de97e978f949933f985862c17fd39f6feb4be90846d88fd0cc9",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  02 AUDIT REVIEW Begin with the retained record Use business context to locate the evidence your application supplied. 1 Business identifier Case · claim · transaction · encounter · workflow 2 Retained decision record Selected context captured at execution time Review history Supplied approvals, overrides and escalations Verification Check whether the record still matches what was captured Evidence Submitted input, context, output and workflow metadata Review depends on what was supplied. Missing facts still need investigation. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Removed absolute no-investigation/no-assembly claims. Review history and evidence are limited to supplied facts.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

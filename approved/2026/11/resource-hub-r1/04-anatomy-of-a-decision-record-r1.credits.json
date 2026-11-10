@@ -1,0 +1,23 @@
+{
+  "number": 4,
+  "slug": "anatomy-of-a-decision-record",
+  "title": "Inside a decision record",
+  "page": "https://obligra.ai/resources/structure-of-a-decision-record",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-anatomy-of-a-decision-record.svg",
+  "width": 1200,
+  "height": 1500,
+  "svg_file": "04-anatomy-of-a-decision-record-r1.svg",
+  "png_file": "04-anatomy-of-a-decision-record-r1.png",
+  "png_sha256": "022f09cb874a603f90eb4087beefe44f10c2810f3709c39bf0e01a9976c04691",
+  "svg_sha256": "e9973ffe0b321a9b1239de511ebcd326f84343db5d7427e96a8185264114504c",
+  "source_sha256": "cf9559fea423b27f1fb60b06808a506e37d1831380ff95c78f0efcb1906fcdb0",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  04 SCHEMA REFERENCE Inside a decision record Eleven field families, organized for later review. 01 recordEnvelope Identity, version and status 02 input What the workflow received 03 context Retrieved decision context 04 prompt How the model was instructed 05 modelExecution Reported model and runtime 06 output The generated artifact 07 validation Submitted checks and controls 08 metadata Business and workflow context 09 index Handles for later retrieval 10 verification Integrity reference and result 11 retention Policy, period and holds One retained artifact Read the source for full field examples. Your application selects and supplies the evidence. Field names do not prove completeness. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "All 11 original field families preserved; detailed child-field inventory condensed into family descriptions.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

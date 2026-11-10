@@ -1,0 +1,23 @@
+{
+  "number": 13,
+  "slug": "end-to-end-decision-record-lifecycle",
+  "title": "Capture once. Review over time.",
+  "page": "https://obligra.ai/resources/reference-architecture-aws",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-end-to-end-decision-record-lifecycle.svg",
+  "width": 1200,
+  "height": 1500,
+  "svg_file": "13-end-to-end-decision-record-lifecycle-r1.svg",
+  "png_file": "13-end-to-end-decision-record-lifecycle-r1.png",
+  "png_sha256": "72c0831bc68dc660e945b1c990273fc2488ce531bc6810a6447f905abc5b411c",
+  "svg_sha256": "076540b66ea5b32234c326635dcc585ae41f5189a6f92bcb7632375cf939fb68",
+  "source_sha256": "c31fecf5d53c643c5f54caff9a285bd5294b92bbed80a30edc3587301e3cdd12",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  13 END-TO-END LIFECYCLE Capture once. Review over time. A customer-controlled path from an AI-assisted step to a reviewed record. 01 CUSTOMER AI-assisted workflow The customer application runs the workflow. 02 CUSTOMER Decision context assembled The application selects input, context, output and identifiers. 03 CUSTOMER Approved submission The proxy applies capture and field-retention policy. 04 OBLIGRA Record retained Verify retains and indexes the record, with an integrity reference. 05 OBLIGRA Retrieved and verified An authorized reviewer locates it and checks integrity. 06 CUSTOMER REVIEW Reviewed Customer reviewers inspect, act on or escalate the record. The customer controls the evidence supplied. Review can recur throughout the record’s retained life. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Preserves six stages and customer/platform/reviewer boundaries. Submission is explicitly customer-selected.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

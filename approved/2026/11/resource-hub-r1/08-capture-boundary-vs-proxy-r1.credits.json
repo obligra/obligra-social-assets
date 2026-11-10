@@ -1,0 +1,23 @@
+{
+  "number": 8,
+  "slug": "capture-boundary-vs-proxy",
+  "title": "The boundary is the concept",
+  "page": "https://obligra.ai/resources/capture-boundary-vs-proxy",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-capture-boundary-vs-proxy.svg",
+  "width": 1200,
+  "height": 1200,
+  "svg_file": "08-capture-boundary-vs-proxy-r1.svg",
+  "png_file": "08-capture-boundary-vs-proxy-r1.png",
+  "png_sha256": "315d0ad7822b6267b4948b98e23a34c98cd3c42c94853aa85e4c93e7309913e8",
+  "svg_sha256": "f99b97726147755e8d490aead5a74e0f7946ce7979a20fab01f09764567df20e",
+  "source_sha256": "50aac8710887c15694c324a8d5c8127a5594cc2f58d92729913ed80e7c2b7d16",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  08 ARCHITECTURE DEFINITIONS The boundary is the concept The customer-owned proxy is an implementation of that boundary. ARCHITECTURAL CONCEPT Customer-owned capture boundary Where the customer decides what becomes a record and which fields may leave their environment. Commonly implemented by CUSTOMER-DEPLOYED SERVICE Customer-owned proxy 1 Capture policy Capture or skip 2 Field policy Choose allowed fields 3 Forwarder Send approved payload The customer runs the proxy. The boundary describes the responsibility, not a separate product. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Concept versus implementation and three proxy responsibilities preserved. Deployment tooling details omitted.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

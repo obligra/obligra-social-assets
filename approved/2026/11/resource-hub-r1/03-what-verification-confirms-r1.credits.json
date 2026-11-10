@@ -1,0 +1,23 @@
+{
+  "number": 3,
+  "slug": "what-verification-confirms",
+  "title": "Verified does not mean correct",
+  "page": "https://obligra.ai/resources/verification-lifecycle",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-what-verification-confirms.svg",
+  "width": 1200,
+  "height": 1200,
+  "svg_file": "03-what-verification-confirms-r1.svg",
+  "png_file": "03-what-verification-confirms-r1.png",
+  "png_sha256": "9f61c794829cd1e1783556eb7b511e5e5794c24609440db0cae1aca3e0292777",
+  "svg_sha256": "e8dae6c001ddf93d1037e1c9bd5c212d74ef61a2d8abdf5572ab87e48467be30",
+  "source_sha256": "0f312575a8115c5b4b649f1b1d70bcfed91da72e1fb79cf6401871bb46f74d70",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  03 VERIFICATION SCOPE Verified does not mean correct An integrity result answers a different question from a decision review. VERIFICATION ASKS Does the retained record still match what was captured? It does not establish: Correct outcome Was this the right decision? Complete, accurate input Was the source data good enough? Appropriate model Was this the right model to use? Regulatory compliance Did the decision meet the standard? Integrity supports review. Correctness, input quality, model choice and compliance remain separate. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Preserves integrity versus correctness, input quality, model choice and compliance distinction.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

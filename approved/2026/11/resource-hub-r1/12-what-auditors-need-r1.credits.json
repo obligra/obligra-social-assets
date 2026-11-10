@@ -1,0 +1,23 @@
+{
+  "number": 12,
+  "slug": "what-auditors-need",
+  "title": "Five things a reviewer needs",
+  "page": "https://obligra.ai/resources/audit-readiness-ai-workflows",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-what-auditors-need.svg",
+  "width": 1200,
+  "height": 1200,
+  "svg_file": "12-what-auditors-need-r1.svg",
+  "png_file": "12-what-auditors-need-r1.png",
+  "png_sha256": "41771463a4f6299e1827cf1bd5d551ff1f70145f91754c7567183368212d185b",
+  "svg_sha256": "fd9b79c1a50d62589d2ba523734f0afddcc3fcc99e25b88807f2921cab4bd9d0",
+  "source_sha256": "5a562cff678708bc75bc26af6a85426fb6540fed985cd01484d5cab3b3688dcf",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  12 AUDIT REVIEW STARTING POINT Five things a reviewer needs Start with the record, then inspect what it actually contains. 01 Context Case, claim, transaction or workflow 02 Controls Submitted policies and validation rules 03 Review history Supplied approvals, overrides and escalations 04 Verification Integrity result, lifecycle state and check time 05 Evidence Input, context, output and workflow metadata A record can bring these together when supplied. It cannot fill in missing events, actors or reasons. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Preserves five review needs; conditions availability on submitted evidence, not automatic capture.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}

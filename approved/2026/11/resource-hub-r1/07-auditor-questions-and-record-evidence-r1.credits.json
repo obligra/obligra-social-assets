@@ -1,0 +1,23 @@
+{
+  "number": 7,
+  "slug": "auditor-questions-and-record-evidence",
+  "title": "An audit question needs evidence",
+  "page": "https://obligra.ai/resources/audit-readiness-ai-workflows",
+  "source_svg": "https://obligra.ai/diagrams/obligra-verify-auditor-questions-and-record-evidence.svg",
+  "width": 1200,
+  "height": 1200,
+  "svg_file": "07-auditor-questions-and-record-evidence-r1.svg",
+  "png_file": "07-auditor-questions-and-record-evidence-r1.png",
+  "png_sha256": "c375e6639e48944bf0d3a112f1897a944af6b1bb2c8cef8d96c3611652170cca",
+  "svg_sha256": "bfa7ab922ce596d80adbba52e71a53079aa5d7d662e2000656171fab48a70f0d",
+  "source_sha256": "2a846b81c6cafe712037ac04cc411de0d323bda0e4ac9e47f7e16f9ea6a1cd6f",
+  "alt_text": "OBLIGRA VERIFY RESOURCE HUB  /  07 QUESTIONS TO RECORDS An audit question needs evidence Five questions and the record evidence a reviewer should inspect. QUESTION EVIDENCE TO INSPECT 01 What happened? Workflow context 02 Who approved it? Supplied review history 03 What controls applied? Validation state 04 Was it changed? Lifecycle + integrity result 05 Does integrity hold? Verification state Inspect the facts actually supplied. A field or “verified” status alone does not answer every audit question. obligra.ai  /  Resource Hub Concept explainer · Read the linked source",
+  "editorial_note": "Preserves five audit questions; review history is supplied, and change review includes the integrity result. Removes claim every answer is guaranteed to exist.",
+  "revision": "r1",
+  "rights": {
+    "artwork": "Original Obligra diagrams redesigned with the owner’s authorization. Obligra marks and artwork retain their existing rights. No blanket third-party license is granted.",
+    "brand_source": "https://obligra.ai/brand/obligra-mark.svg",
+    "typeface": "Manrope, Copyright 2018 The Manrope Project Authors, SIL Open Font License 1.1",
+    "typeface_license": "https://github.com/google/fonts/blob/main/ofl/manrope/OFL.txt"
+  }
+}
