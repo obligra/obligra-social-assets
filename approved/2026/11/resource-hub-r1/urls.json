@@ -1,0 +1,146 @@
+{
+  "asset_commit": "0f275ff24e65bad780c3fcd39ca3fc93acbf75bb",
+  "date": "2026-11-10",
+  "images": [
+    {
+      "number": 1,
+      "title": "When review starts from fragments",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/01-audit-review-without-verify-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/01-audit-review-without-verify-r1.svg",
+      "source_url": "https://obligra.ai/resources/audit-readiness-ai-workflows",
+      "png_sha256": "32ca4d31ca4b665f618525295d5a4eba3a466e886776867aa759f67f04b099aa",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "number": 2,
+      "title": "Begin with the retained record",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/02-audit-review-with-verify-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/02-audit-review-with-verify-r1.svg",
+      "source_url": "https://obligra.ai/resources/audit-readiness-ai-workflows",
+      "png_sha256": "78da0e8f5d22fab26ee20b28c69dcb3f53d1063ab8b34fcd5f800354ba82579e",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "number": 3,
+      "title": "Verified does not mean correct",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/03-what-verification-confirms-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/03-what-verification-confirms-r1.svg",
+      "source_url": "https://obligra.ai/resources/verification-lifecycle",
+      "png_sha256": "9f61c794829cd1e1783556eb7b511e5e5794c24609440db0cae1aca3e0292777",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "number": 4,
+      "title": "Inside a decision record",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/04-anatomy-of-a-decision-record-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/04-anatomy-of-a-decision-record-r1.svg",
+      "source_url": "https://obligra.ai/resources/structure-of-a-decision-record",
+      "png_sha256": "022f09cb874a603f90eb4087beefe44f10c2810f3709c39bf0e01a9976c04691",
+      "width": 1200,
+      "height": 1500
+    },
+    {
+      "number": 5,
+      "title": "Verify on AWS: who runs what?",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/05-reference-architecture-aws-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/05-reference-architecture-aws-r1.svg",
+      "source_url": "https://obligra.ai/resources/reference-architecture-aws",
+      "png_sha256": "b00872ef9789f5f8e46a6ee63fecf87524d74d6a96613c06c7c172e65ce9a835",
+      "width": 1200,
+      "height": 1500
+    },
+    {
+      "number": 6,
+      "title": "From workflow to review evidence",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/06-lifecycle-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/06-lifecycle-r1.svg",
+      "source_url": "https://obligra.ai/resources/what-is-verify",
+      "png_sha256": "dc2b5c74f2a16ad41a6a953ff091116fbdea340e86214a5ac51a0b9d7fc0eb85",
+      "width": 1200,
+      "height": 1350
+    },
+    {
+      "number": 7,
+      "title": "An audit question needs evidence",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/07-auditor-questions-and-record-evidence-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/07-auditor-questions-and-record-evidence-r1.svg",
+      "source_url": "https://obligra.ai/resources/audit-readiness-ai-workflows",
+      "png_sha256": "c375e6639e48944bf0d3a112f1897a944af6b1bb2c8cef8d96c3611652170cca",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "number": 8,
+      "title": "The boundary is the concept",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/08-capture-boundary-vs-proxy-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/08-capture-boundary-vs-proxy-r1.svg",
+      "source_url": "https://obligra.ai/resources/capture-boundary-vs-proxy",
+      "png_sha256": "315d0ad7822b6267b4948b98e23a34c98cd3c42c94853aa85e4c93e7309913e8",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "number": 9,
+      "title": "Three questions. Three meanings.",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/09-validation-verification-correctness-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/09-validation-verification-correctness-r1.svg",
+      "source_url": "https://obligra.ai/resources/verification-lifecycle",
+      "png_sha256": "c6b832df625c5f131c3027247abfed43fbb42c2c1a4f1ba4bd2f3c7b4a8bb297",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "number": 10,
+      "title": "Read the fields behind the question",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/10-which-fields-answer-which-review-questions-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/10-which-fields-answer-which-review-questions-r1.svg",
+      "source_url": "https://obligra.ai/resources/structure-of-a-decision-record",
+      "png_sha256": "cbb22bc5d87d9e48a175488d54dd033aa448dd554335e7967261d5d109723eeb",
+      "width": 1200,
+      "height": 1350
+    },
+    {
+      "number": 11,
+      "title": "Build trust one check at a time",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/11-how-trust-is-established-over-time-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/11-how-trust-is-established-over-time-r1.svg",
+      "source_url": "https://obligra.ai/resources/verification-lifecycle",
+      "png_sha256": "aad91337b53b6e8e1dfe970d05ea9ac63a9b25f0f5316b547c07a638dae9f907",
+      "width": 1200,
+      "height": 1350
+    },
+    {
+      "number": 12,
+      "title": "Five things a reviewer needs",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/12-what-auditors-need-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/12-what-auditors-need-r1.svg",
+      "source_url": "https://obligra.ai/resources/audit-readiness-ai-workflows",
+      "png_sha256": "41771463a4f6299e1827cf1bd5d551ff1f70145f91754c7567183368212d185b",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "number": 13,
+      "title": "Capture once. Review over time.",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/13-end-to-end-decision-record-lifecycle-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/13-end-to-end-decision-record-lifecycle-r1.svg",
+      "source_url": "https://obligra.ai/resources/reference-architecture-aws",
+      "png_sha256": "72c0831bc68dc660e945b1c990273fc2488ce531bc6810a6447f905abc5b411c",
+      "width": 1200,
+      "height": 1500
+    },
+    {
+      "number": 14,
+      "title": "Choose runtime and governance",
+      "png_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/14-runtime-governance-decision-framework-r1.png",
+      "svg_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/svg/14-runtime-governance-decision-framework-r1.svg",
+      "source_url": "https://obligra.ai/resources/customer-integration-patterns",
+      "png_sha256": "350d9bb0fbe197daff87dea9e584cbdaccdd445e819730df3281ff9f263ad75c",
+      "width": 1200,
+      "height": 1500
+    }
+  ]
+}
