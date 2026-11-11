@@ -1,0 +1,47 @@
+{
+  "title": "Obligra Veterans Day 2026",
+  "image_filename": "obligra-veterans-day-social-r1.png",
+  "revision": "r1",
+  "date": "2026-11-11",
+  "sha256": "ca51c658525e0aeaff87f71605c92e065d7130a5d434337e175440b04a1424d8",
+  "byte_length": 72174,
+  "width": 1200,
+  "height": 1200,
+  "mime_type": "image/png",
+  "photographer": null,
+  "photography": "No photographs or stock imagery used.",
+  "artwork": "Original programmatically rendered gradient, stars, rules and stripes. No generative imagery or third-party clip art.",
+  "brand": "Obligra Verify mark cropped from the approved capture-boundary diagram.",
+  "fonts": [
+    {
+      "name": "Caladea Bold and Italic",
+      "copyright": "Copyright 2012 The Caladea Project Authors",
+      "source_url": "https://github.com/huertatipografica/Caladea",
+      "license": "SIL Open Font License 1.1",
+      "license_url": "https://openfontlicense.org"
+    },
+    {
+      "name": "Inter Regular and SemiBold",
+      "copyright": "Copyright 2016-2023 The Inter Project Authors",
+      "source_url": "https://github.com/rsms/inter",
+      "license": "SIL Open Font License 1.1",
+      "license_url": "https://openfontlicense.org"
+    }
+  ],
+  "font_usage": "Rasterized lettering only; no font files embedded.",
+  "source_url": null,
+  "license_url": null,
+  "rights": "Thanis and Obligra names, marks and artwork retain their existing rights. Public hosting grants no blanket third-party license.",
+  "provenance": "Font and artwork source details supplied by the image producer. PNG content credentials preserved in this exact published file.",
+  "brand_source": {
+    "image_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/08-capture-boundary-vs-proxy-r1.png",
+    "credits_url": "https://raw.githubusercontent.com/obligra/obligra-social-assets/0f275ff24e65bad780c3fcd39ca3fc93acbf75bb/approved/2026/11/resource-hub-r1/08-capture-boundary-vs-proxy-r1.credits.json",
+    "original_mark_url": "https://obligra.ai/brand/obligra-mark.svg",
+    "crop_bounds_xyxy": [
+      50,
+      30,
+      305,
+      82
+    ]
+  }
+}
