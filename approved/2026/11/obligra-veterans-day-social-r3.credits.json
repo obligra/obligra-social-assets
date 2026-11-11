@@ -1,0 +1,43 @@
+{
+  "title": "Obligra Verify Veterans Day 2026",
+  "image_filename": "obligra-veterans-day-social-r3.png",
+  "revision": "r3",
+  "date": "2026-11-11",
+  "sha256": "60f81892aef9a212acb0de9d0f9315de187e675bc61668affca53e87306bdeaa",
+  "byte_length": 82860,
+  "width": 1200,
+  "height": 1200,
+  "mime_type": "image/png",
+  "photographer": null,
+  "photography": "No photography, stock images or third-party clip art used.",
+  "artwork": "Original technical grid, stylized flag and navy tribute panel.",
+  "brand": {
+    "source": "Brand owner-supplied Obligra Verify-Horizontal-MainV12x-8.png",
+    "source_url": null,
+    "source_sha256": "542212b770f27aac9d86c0fa6cc5bc33ed7ec1ec070ff0c13aa827e91c1242ed",
+    "source_dimensions": [
+      2888,
+      518
+    ],
+    "treatment": "Supplied blue horizontal Obligra Verify logo, proportionally resized with original colors. No redrawn mark."
+  },
+  "fonts": [
+    {
+      "name": "Inter",
+      "copyright": "Copyright 2016-2023 The Inter Project Authors",
+      "source_url": "https://github.com/rsms/inter",
+      "license": "SIL Open Font License 1.1",
+      "license_url": "https://openfontlicense.org"
+    }
+  ],
+  "font_usage": "Rasterized lettering only; no font files embedded.",
+  "source_url": null,
+  "license_url": null,
+  "rights": "Thanis and Obligra names, marks and artwork retain their existing rights. Public hosting grants no blanket third-party license.",
+  "provenance": "Public-safe source and font details supplied by the image producer. Original PNG content credentials are preserved.",
+  "original_render": {
+    "byte_length": 77090,
+    "sha256": "e46e8f52c01228c711b3b74745881798a321758059609367d097249f87556d1b",
+    "metadata_note": "Published PNG differs from the original render only by the added caBX content-credentials chunk. Image data is unchanged."
+  }
+}

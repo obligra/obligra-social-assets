@@ -1,0 +1,47 @@
+{
+  "title": "Thanis Veterans Day 2026",
+  "image_filename": "thanis-veterans-day-instagram-r3.png",
+  "revision": "r3",
+  "date": "2026-11-11",
+  "sha256": "108fb1e6723e7297960ce081ba4cfd2d0f23558d18506d0dd5bc083a91f57784",
+  "byte_length": 104112,
+  "width": 1200,
+  "height": 1200,
+  "mime_type": "image/png",
+  "photographer": null,
+  "photography": "No photography, stock images or third-party clip art used.",
+  "artwork": "Original cream editorial layout, border, rule and stars.",
+  "brand": {
+    "source_url": "https://www.thanis.ai/thanis_logo.svg?dpl=dpl_DDT7ht6kyiq24BtfGn3jhP47KWcy",
+    "source_sha256": "5449365cbee690cf0661a457dbad3b72045c1ddfc6533ea80a31b0d53dcdc55f",
+    "source_byte_length": 6321,
+    "source_viewbox": "0 0 247 72",
+    "treatment": "Official bracket-T and Thanis.ai lockup rasterized unchanged from SVG, then proportionally scaled to 440 pixels wide. No redrawn mark."
+  },
+  "fonts": [
+    {
+      "name": "Caladea Bold and Italic",
+      "copyright": "Copyright 2012 The Caladea Project Authors",
+      "source_url": "https://github.com/huertatipografica/Caladea",
+      "license": "SIL Open Font License 1.1",
+      "license_url": "https://openfontlicense.org"
+    },
+    {
+      "name": "Inter",
+      "copyright": "Copyright 2016-2023 The Inter Project Authors",
+      "source_url": "https://github.com/rsms/inter",
+      "license": "SIL Open Font License 1.1",
+      "license_url": "https://openfontlicense.org"
+    }
+  ],
+  "font_usage": "Rasterized lettering only; no font files embedded.",
+  "source_url": null,
+  "license_url": null,
+  "rights": "Thanis and Obligra names, marks and artwork retain their existing rights. Public hosting grants no blanket third-party license.",
+  "provenance": "Public-safe source and font details supplied by the image producer. Original PNG content credentials are preserved.",
+  "original_render": {
+    "byte_length": 98342,
+    "sha256": "b6a8c95fb6626e13bdb52da76785f751084a9ddb688416e6a61c7976d64ed84c",
+    "metadata_note": "Published PNG differs from the original render only by the added caBX content-credentials chunk. Image data is unchanged."
+  }
+}
