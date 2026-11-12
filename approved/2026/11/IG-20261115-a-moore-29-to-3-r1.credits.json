@@ -1,0 +1,29 @@
+{
+  "image_filename": "IG-20261115-a-moore-29-to-3-r1.png",
+  "revision": "r1",
+  "sha256": "2d232a4cb6813bac30c3ee3846aa04d97382b8d064f06305a5f415b52f7ef9a6",
+  "width": 1080,
+  "height": 1350,
+  "mime_type": "image/png",
+  "photographer": null,
+  "source_url": "https://www.thanis.ai/thanis_logo.svg",
+  "license_url": null,
+  "photography": "No photographs or third-party illustrations; text-only editorial card.",
+  "brand": "Official Thanis lockup rasterized from SVG, per producer provenance; retained unchanged.",
+  "fonts": [
+    {
+      "name": "Caladea",
+      "source_url": "https://github.com/huertatipografica/Caladea",
+      "license": "SIL OFL 1.1",
+      "license_url": "https://openfontlicense.org"
+    },
+    {
+      "name": "Inter",
+      "source_url": "https://github.com/rsms/inter",
+      "license": "SIL OFL 1.1",
+      "license_url": "https://openfontlicense.org"
+    }
+  ],
+  "rights": "Thanis marks retain existing rights. No blanket license granted.",
+  "provenance": "Finished producer-supplied PNG, SHA-256 matched to approved batch. No content changes."
+}

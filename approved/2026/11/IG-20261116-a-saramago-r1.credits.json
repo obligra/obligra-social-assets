@@ -1,0 +1,29 @@
+{
+  "image_filename": "IG-20261116-a-saramago-r1.png",
+  "revision": "r1",
+  "sha256": "6eba0213ab3a8428b095819d562faa43d8afb4bfb912156e607d6036fe25f80e",
+  "width": 1080,
+  "height": 1350,
+  "mime_type": "image/png",
+  "photographer": null,
+  "source_url": "https://www.thanis.ai/thanis_logo.svg",
+  "license_url": null,
+  "photography": "No photographs or third-party illustrations; text-only editorial card.",
+  "brand": "Official Thanis lockup rasterized from SVG, per producer provenance; retained unchanged.",
+  "fonts": [
+    {
+      "name": "Caladea",
+      "source_url": "https://github.com/huertatipografica/Caladea",
+      "license": "SIL OFL 1.1",
+      "license_url": "https://openfontlicense.org"
+    },
+    {
+      "name": "Inter",
+      "source_url": "https://github.com/rsms/inter",
+      "license": "SIL OFL 1.1",
+      "license_url": "https://openfontlicense.org"
+    }
+  ],
+  "rights": "Thanis marks retain existing rights. No blanket license granted.",
+  "provenance": "Finished producer-supplied PNG, SHA-256 matched to approved batch. No content changes."
+}
