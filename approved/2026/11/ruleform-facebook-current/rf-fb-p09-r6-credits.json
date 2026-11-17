@@ -1,0 +1,11 @@
+{
+  "asset": "rf-fb-p09-r6.png",
+  "photographer": "Nils Huenerfuerst",
+  "source": "https://unsplash.com/photos/a-room-with-a-desk-and-a-book-shelf-K8JBKN3T6b4",
+  "license": "https://unsplash.com/license",
+  "license_check": "November 17 2026: exact source page states Free to use under Unsplash License; commercial distribution permitted.",
+  "edits": "Shop sign blurred, shadows lifted, cropped, official logo and reviewed prelaunch copy added.",
+  "file_sha256": "ed0e961ef39039e9b74a320b1f05f199efe315e5c70ea375eb53f82f2ae120c5",
+  "rgb_pixel_sha256": "3817e735da0521b27e94d016c8850bd7c75c13971f4ff55e92c21a8e0948ca87",
+  "note": "Downloaded PNG contains caBX Content Credentials chunk and matches source RGB hash; hosted unchanged. Hosting is not scheduling or publication approval."
+}
