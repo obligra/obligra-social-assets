@@ -1,0 +1,41 @@
+[
+  {
+    "id": "P05",
+    "revision": "r3",
+    "file": "rf-fb-p05-r3.png",
+    "sha256": "fa997957634d2e0de785f1fa267eb83853d7a4941533285467accea5e4c402d6",
+    "rgb_sha256": "2ee7197bf7952cefb40d22b08960cc3942499012750dba7e29c104954e33fe10",
+    "photographer": "immo RENOVATION",
+    "source": "https://unsplash.com/photos/kitchen-renovation-with-white-cabinets-UqNEbyRQ660",
+    "license": "https://unsplash.com/license",
+    "license_checked": "2026-11-17",
+    "edits": "Same reviewed photo/crop; rewritten prelaunch on-image text. Content Credentials preserved unchanged.",
+    "review_scope": "Exact caption, alt and actual PNG reviewed. Future workflow, not customer availability or payment guarantee. Stock photo is illustrative, not a RuleForm customer endorsement. Native Facebook crop not tested."
+  },
+  {
+    "id": "P11",
+    "revision": "r3",
+    "file": "rf-fb-p11-r3.png",
+    "sha256": "3ad6043eb5b4732aac1b34f36afaf574213a1f68a8042f0d32dfa11c6f09facc",
+    "rgb_sha256": "0f400aad0199854815b981f1610de1a78867e3cc3d3d2bf80aef0d6f55844f8d",
+    "photographer": "Spencer Liao",
+    "source": "https://unsplash.com/photos/ventilation-ducts-in-industrial-workspace-L23Drc99Cyk",
+    "license": "https://unsplash.com/license",
+    "license_checked": "2026-11-17",
+    "edits": "Same reviewed photo/crop; rewritten prelaunch on-image text. Content Credentials preserved unchanged.",
+    "review_scope": "Exact caption, alt and actual PNG reviewed. Future workflow, not customer availability or payment guarantee. Stock photo is illustrative, not a RuleForm customer endorsement. Native Facebook crop not tested."
+  },
+  {
+    "id": "P16",
+    "revision": "r3",
+    "file": "rf-fb-p16-r3.png",
+    "sha256": "fa7df99e97bcf6344cc52dcc0ea8179c9e42e32640befbc41b991a21daf76a14",
+    "rgb_sha256": "4d4b76052130163b931f3796ff841c26c08c34c8aaad81782415beddc60b22c9",
+    "photographer": "Emmanuel Ikwuegbu",
+    "source": "https://unsplash.com/photos/man-in-red-blue-and-white-plaid-dress-shirt-wearing-yellow-hat-holding-black-smartphone-xdS9XEoKBLY",
+    "license": "https://unsplash.com/license",
+    "license_checked": "2026-11-17",
+    "edits": "Same reviewed photo/crop; rewritten prelaunch on-image text. Content Credentials preserved unchanged.",
+    "review_scope": "Exact caption, alt and actual PNG reviewed. Future workflow, not customer availability or payment guarantee. Stock photo is illustrative, not a RuleForm customer endorsement. Native Facebook crop not tested."
+  }
+]
